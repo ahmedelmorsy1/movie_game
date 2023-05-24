@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/ahmedelmorsy1/movie_game/assets/38796224/0083d9d1-219a-44b5-ba8c-190c49a2da10
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230425-002254](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/b7eb5434-8b81-478c-b526-6e11ed7e19a3)
+![Screenshot_20230425-002259](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/3289a931-96a2-48da-9f25-4fdaaa505b02)
+![Screenshot_20230425-002307](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/0c9084e3-7840-4584-8d69-e450c64e91f9)
