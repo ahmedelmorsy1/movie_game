@@ -1,12 +1,11 @@
 # movie_game
 
-A new Flutter project.
+A  Flutter game aims to guessing the name's movie by giving the user some hints like movie's words number and each word's number of letters.
 
 
 
 
-https://github.com/ahmedelmorsy1/movie_game/assets/38796224/0083d9d1-219a-44b5-ba8c-190c49a2da10
+![5](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/300b8e9d-9391-4b49-9e81-1b00183f383f)
 
-![Screenshot_20230425-002254](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/b7eb5434-8b81-478c-b526-6e11ed7e19a3)
-![Screenshot_20230425-002259](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/3289a931-96a2-48da-9f25-4fdaaa505b02)
-![Screenshot_20230425-002307](https://github.com/ahmedelmorsy1/movie_game/assets/38796224/0c9084e3-7840-4584-8d69-e450c64e91f9)
+
+https://youtube.com/shorts/pS_6KyIjyDk?si=UZjfrtG8QdbufKS6
